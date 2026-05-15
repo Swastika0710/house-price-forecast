@@ -1,0 +1,2 @@
+# This file keeps the data/ directory tracked by git.
+# Download data by running: python src/data_ingest.py
